@@ -1,4 +1,4 @@
-baseURL: "https://sanghyun.me/"
+baseURL: "https://www.sanghyun.me/"
 title: Sanghyun's Blog
 paginate: 5
 theme: PaperMod
@@ -53,7 +53,7 @@ params:
 
   label:
     text: "상현이의 블로그"
-    icon: /cover.jpg
+    icon: "https://image.spark-in-you.com/images/2022/07/12/dc3d3a9f68fe3fb408a01dd6e38a250e.jpg"
     iconHeight: 35
 
   # profile-mode
