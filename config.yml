@@ -52,8 +52,8 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
-    icon: /apple-touch-icon.png
+    text: "상현이의 블로그"
+    icon: /cover.jpg
     iconHeight: 35
 
   # profile-mode
@@ -61,9 +61,9 @@ params:
     enabled: true # needs to be explicitly set
     title: 상현이의 블로그
     subtitle: "아무거나 적는 공간"
-    imageUrl: "https://image.spark-in-you.com/image/rpKl"
-    imageWidth: 120
-    imageHeight: 120
+    imageUrl: "https://image.spark-in-you.com/images/2022/07/12/dc3d3a9f68fe3fb408a01dd6e38a250e.jpg"
+    imageWidth: 200
+    imageHeight: 200
     imageTitle: my image
     buttons:
       - name: Posts
@@ -71,7 +71,7 @@ params:
       - name: Categories
         url: categories
       - name: Archives
-        url: 
+        url: archives
 
   # home-info mode
   homeInfoParams:
@@ -82,7 +82,7 @@ params:
     - name: spotify
       url: "https://open.spotify.com/user/31qggqlvgt6oreutg2mx6qxyoj3i?si=O2TtzXlkQ42dd8-cWoYJJw"
     - name: email
-      url: "me@sanghyun.me"
+      url: "mailto: me@sanghyun.me"
     - name: github
       url: "https://github.com/spark-in-you"
     - name: instagram
@@ -104,7 +104,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/spark-in-you/sanghyun.me/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -121,16 +121,20 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: posts
-      name: posts
-      url: /post/
+      name: Posts
+      url: /posts/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
@@ -142,3 +146,8 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
