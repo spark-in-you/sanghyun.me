@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: "https://sanghyun.me/"
+title: Sanghyun's Blog
 paginate: 5
 theme: PaperMod
 
@@ -58,31 +58,37 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    enabled: true # needs to be explicitly set
+    title: 상현이의 블로그
+    subtitle: "아무거나 적는 공간"
+    imageUrl: "https://image.spark-in-you.com/image/rpKl"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
       - name: Posts
         url: posts
-      - name: Tags
-        url: tags
+      - name: Categories
+        url: categories
+      - name: Archives
+        url: 
 
   # home-info mode
   homeInfoParams:
     Title: "안뇽!! \U0001F44B"
-    Content: Welcome to my blog
+    Content: 아무거나 적는 블로그
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: spotify
+      url: "https://open.spotify.com/user/31qggqlvgt6oreutg2mx6qxyoj3i?si=O2TtzXlkQ42dd8-cWoYJJw"
+    - name: email
+      url: "me@sanghyun.me"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/spark-in-you"
+    - name: instagram
+      url: "https://instagram.com/sanghyun.me"
+    - name: "apple music"
+      url: "https://music.apple.com/profile/sanghyunme"
 
   analytics:
     google:
@@ -118,9 +124,9 @@ menu:
       name: categories
       url: /categories/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: posts
+      name: posts
+      url: /post/
       weight: 20
     - identifier: example
       name: example.org
