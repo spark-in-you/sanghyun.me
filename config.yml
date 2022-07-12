@@ -1,5 +1,5 @@
 baseURL: "https://www.sanghyun.me/"
-title: Sanghyun's Blog
+title: 상현이의 블로그
 paginate: 5
 theme: PaperMod
 
@@ -16,12 +16,12 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: 상현이의 블로그
+  description: "아무거나 적는 공간"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["https://image.spark-in-you.com/images/2022/07/12/dc3d3a9f68fe3fb408a01dd6e38a250e.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
