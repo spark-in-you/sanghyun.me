@@ -23,7 +23,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: ["/profile.jpg"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark # auto, dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: 상현이의 블로그
-    subtitle: "아무거나 적을 예정인 공간 - 인스타 아이디가 사이트 주소랑 같아요 - 아래 인스타 누르면 이동"
+    subtitle: "사이트 주소랑 아이디랑 같아요 - 인스타 로고 눌러서 프로필로 이동!"
     imageUrl: "/profile.jpg"
     imageWidth: 200
     imageHeight: 200
