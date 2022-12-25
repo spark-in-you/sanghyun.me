@@ -53,7 +53,7 @@ params:
 
   label:
     text: "상현이의 블로그"
-    icon: "https://image.spark-in-you.com/images/2022/07/12/dc3d3a9f68fe3fb408a01dd6e38a250e.jpg"
+    icon: "/logo.jpg"
     iconHeight: 35
 
   # profile-mode
@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: 상현이의 블로그
     subtitle: "아무거나 적는 공간"
-    imageUrl: "https://image.spark-in-you.com/images/2022/07/12/dc3d3a9f68fe3fb408a01dd6e38a250e.jpg"
+    imageUrl: "/profile.jpg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: my image

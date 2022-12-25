@@ -20,4 +20,4 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-지윤아 너도 블로그 만들자!!
+만들긴 했는데 세달 방치하니 사용법 다 까먹었어요...
