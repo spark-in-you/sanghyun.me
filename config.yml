@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["https://image.spark-in-you.com/images/2022/07/12/dc3d3a9f68fe3fb408a01dd6e38a250e.jpg"]
+  images: ["/profile.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: 상현이의 블로그
-    subtitle: "아무거나 적는 공간"
+    subtitle: "아무거나 적을 예정인 공간 - 인스타 아이디가 사이트 주소랑 같아요 - 아래 인스타 누르면 이동"
     imageUrl: "/profile.jpg"
     imageWidth: 200
     imageHeight: 200
