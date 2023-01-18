@@ -4,7 +4,7 @@ date: 2022-07-12T11:30:03+09:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["블로그 개설"]
-author: "Me"
+author: "상현이"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
