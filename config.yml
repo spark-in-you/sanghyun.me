@@ -82,7 +82,7 @@ params:
     - name: email
       url: "mailto: sanghyun@kaist.ac.kr"
     - name: phone
-      url: "tel:82-10-4190-6880"
+      url: "tel:821041906880"
     - name: instagram
       url: "https://instagram.com/sanghyun.me"
     - name: kakaotalk
