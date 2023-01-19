@@ -1,18 +1,18 @@
 ---
-title: "블로그(일기) 정말 써보려고!"
+title: "1월 18일 일기!"
 date: 2023-01-13T10:25:03+09:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["1월 18일 일기"]
+tags: ["일기", "뉴질랜드"]
 author: "상현이"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 description: "일기"
 cover:
-    image: "https://image.spark-in-you.com/images/2022/07/12/dc3d3a9f68fe3fb408a01dd6e38a250e.jpg" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "/blue_lake.jpeg" # image path/url
+    alt: "파랑파랑한 호수" # alt text
+    caption: "파랑파랑한 호수" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
