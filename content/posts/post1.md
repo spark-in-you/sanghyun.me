@@ -3,9 +3,9 @@ title: "블로그를 만들어 보았어요"
 date: 2022-07-12T11:30:03+09:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["블로그 개설"]
+tags: ["잡담"]
 author: "상현이"
-# author: ["Me", "You"] # multiple authors
+categories: ["블로그 개설"]
 showToc: true
 TocOpen: false
 description: "첫 개시글"
@@ -20,4 +20,4 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-만들긴 했는데 세달 방치하니 사용법 다 까먹었어요...
+만들긴 했는데 세달 방치하니 사용법 다 까먹었어...

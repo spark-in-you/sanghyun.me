@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: 상현이
   # author: ["Me", "You"] # multiple authors
-  images: ["/profile2.jpg"]
+  images: ["/profile2.jpeg"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # auto, dark, light
   disableThemeToggle: false
@@ -53,7 +53,7 @@ params:
 
   label:
     text: "상현이의 블로그"
-    icon: "/logo2.jpg"
+    icon: "/logo2.jpeg"
     iconHeight: 35
 
   # profile-mode
@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: 상현이의 블로그
     subtitle: "안녕! 아무거나 적는 블로그"
-    imageUrl: "/profile2.jpg"
+    imageUrl: "/profile2.jpeg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: my image
@@ -70,8 +70,6 @@ params:
         url: posts
       - name: Categories
         url: categories
-      - name: Tags
-        url: tags
       - name: Archives
         url: archives
 
@@ -107,8 +105,8 @@ params:
 
   cover:
     hidden: true # hide everywhere but not in structured data
-    hiddenInList: false # hide on list pages and home
-    hiddenInSingle: false # hide on single page
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
 
   editPost:
     URL: "https://github.com/spark-in-you/sanghyun.me/content"

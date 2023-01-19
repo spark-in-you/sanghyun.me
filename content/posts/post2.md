@@ -14,7 +14,7 @@ cover:
     alt: "파랑파랑한 호수" # alt text
     caption: "파랑파랑한 호수" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+    hidden: true # only hide on current single page
 editPost:
     URL: "https://github.com/spark-in-you/sanghyun.me/content"
     Text: "Suggest Changes" # edit text
