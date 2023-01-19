@@ -5,16 +5,16 @@ date: 2023-01-13T10:25:03+09:00
 # aliases: ["/first"]
 tags: ["일기", "뉴질랜드"]
 author: "상현이"
-# author: ["Me", "You"] # multiple authors
+categories: ["일기"]
 showToc: true
 TocOpen: false
-description: "일기"
+description: "오늘의 경험과 생각"
 cover:
-    image: "/blue_lake.jpeg" # image path/url
+    image: "/blue_lake_2.jpeg" # image path/url
     alt: "파랑파랑한 호수" # alt text
     caption: "파랑파랑한 호수" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/spark-in-you/sanghyun.me/content"
     Text: "Suggest Changes" # edit text
@@ -30,4 +30,4 @@ editPost:
 뉴질랜드에 왔는데 상당히 지루해. 물론 힘든것보단 낫지만 하루에 5시간 정도만 활동하는 느낌? 근데 여기 해가 6시 20분에 떠서 9시 20분에 지거든? 낮이 너무너무 긴데 할게 없어. 그리고 화나는건 분명 기온은 20도 아래인데 햇빛이 너어어무 뜨거워서 밖이 완전 지옥이야. 특히 난 썬크림 바르기 싫어서 온몸을 가리고 다닌단 말이지. 더워 죽어.  
 
 그래도 풍경이 이쁜건 맞아. 호수가 빙하 녹은 물이여서 완전 파래. 무슨 광물때문에 그렇다고 한거 같기도 한데 몰라...  
-![파랑파랑한 호수](/blue_lake.jpeg)
+![파랑파랑한 호수](/blue_lake_2.jpeg)
