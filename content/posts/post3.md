@@ -34,9 +34,9 @@ editPost:
 첨에는 wordpress를 했는데, 왜 버렸냐면, 매우매우 느리기 때문이였어. 아무래도 dynamic이 static보다 훨씬 느리긴 한데, 답답할 정도여서 버렸지. 나중에 이거 잊고 다시 눈돌리는 일 없도록. 차리리 바꾼다면 [Ghost](https://ghost.org) 한번 해봐.
 ## 애플뮤직이 짜증난다
 아니 어제까지만 해도 잘 되다가, 비행기 타니까 다운로드한 곡들이 재생 안되기가 어딧지?? 웃긴건 Stay with me 딱 하나만 잘 재생되서 그거 무한반복 중이야. 담부턴 미리미리 확인하기… 특히 업데이트 후!!!
-{{< figure src="staywithme.jpeg" caption="Stay with me" height="400">}}
+{{< figure src="/staywithme.jpeg" align=center caption="Stay with me" height="400">}}
 ## iOS 16.3 업데이트
 비행기 타기 직전에 업데이트 했는데, 애플뮤직이 망가진거 빼고는 딱히 달라진게 없는거같아. 업데이트 노트에도 딱히 별말 없었음에도 한 이유는!! Icloud advanced data protection이 지원된다고 했기 때문이지. 얼마전까지만 해도 미국에서만 되던건데, 이건 아이클라우드에 올라가는 대부분의 정보(사진을 포함해서!)를 end to end, 즉 종단간 암호화 해주는 기능이야. 전에는 애플이 내 사진을을 볼 수 있었다면, 이제는 암호키를 가진 내가 허용한 기기에서만 볼수 있다 이거지. 뭐 어케보면 그닥 쓸모 없지만 그래도!
-![아이클라우드 고급 데이터 보호](/icloud.jpeg#center)
+{{< figure src="/icloud.jpeg" align=center caption="아이클라우드 고급 데이터 보호" height="400">}}
 - - - -
 아니 것보다 카카오톡은 언제 e2e 지원하는거지??
