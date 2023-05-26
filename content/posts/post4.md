@@ -1,6 +1,6 @@
 ---
 title: "반도체가 콕콕 박힌 촉촉한 초코칩"
-date: 2023-01-24T10:25:03+09:00
+date: 2023-05-26T10:25:03+09:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["기타"]
@@ -21,4 +21,4 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 ## 반도체가 콕콕 박힌 촉촉한 초코칩
-{{< figure src="/poster.png" align=center caption="반도체가 콕콕 박힌 촉촉한 초코칩" height="400">}}
+{{< figure src="/poster.png" align=center caption="포스터" height="400">}}
