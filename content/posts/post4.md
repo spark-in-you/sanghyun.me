@@ -21,4 +21,4 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 ## 반도체가 콕콕 박힌 촉촉한 초코칩
-{{< figure src="/poster.png" align=center caption="포스터" height="400">}}
+{{< figure src="/poster.png" align=center caption="포스터" height="1600">}}
