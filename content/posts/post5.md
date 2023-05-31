@@ -20,5 +20,5 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-## 반도체가 콕콕 박힌 촉촉한 초코칩
+## 생화학도 너무싫고 분생도 너무싫고 환진생은 왜 오픈북 아닌건데에에
 {{< figure src="/IMG_2007.png" align=center caption="Leica Minilux - Potra 400" height="400">}}
