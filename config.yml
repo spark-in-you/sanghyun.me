@@ -1,4 +1,4 @@
-baseURL: "https://www.sanghyun.me/"
+baseURL: "https://blog.sanghyun.me/"
 title: 상현이의 블로그
 paginate: 5
 theme: PaperMod
@@ -88,7 +88,7 @@ params:
     - name: github
       url: "https://github.com/spark-in-you"  
     - name: spotify
-      url: "https://open.spotify.com/user/31qggqlvgt6oreutg2mx6qxyoj3i?si=O2TtzXlkQ42dd8-cWoYJJw"  
+      url: "https://open.spotify.com/user/31qggqlvgt6oreutg2mx6qxyoj3i?si=O2TtzXlkQ42dd8-cWoYJJw"
     - name: applemusic
       url: "https://music.apple.com/profile/sanghyunme"
 
