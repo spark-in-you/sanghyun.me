@@ -11,7 +11,7 @@ showToc: true
 TocOpen: false
 description: 1일1논문 시작
 cover:
-  image: 
+  image: /3-0.png
   alt: <alt text>
   caption: <text>
   relative: false
