@@ -1,23 +1,23 @@
 ---
-title: "블로그를 만들어 보았어요"
+title: 블로그를 만들어 보았어요
 date: 2022-07-12T11:30:03+09:00
-# weight: 1
-# aliases: ["/first"]
-tags: ["잡담"]
-author: "상현이"
-categories: ["블로그 개설"]
+tags:
+  - 잡담
+author: 상현
+categories:
+  - 블로그 개설
 showToc: true
 TocOpen: false
-description: "첫 개시글"
+description: 첫 개시글
 cover:
-    image: "https://image.spark-in-you.com/images/2022/07/12/dc3d3a9f68fe3fb408a01dd6e38a250e.jpg" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+  image: https://image.spark-in-you.com/images/2022/07/12/dc3d3a9f68fe3fb408a01dd6e38a250e.jpg
+  alt: <alt text>
+  caption: <text>
+  relative: false
+  hidden: true
 editPost:
-    URL: "https://github.com/spark-in-you/sanghyun.me/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  URL: https://github.com/spark-in-you/sanghyun.me/content
+  Text: Suggest Changes
+  appendFilePath: true
 ---
 만들긴 했는데 세달 방치하니 사용법 다 까먹었어...
