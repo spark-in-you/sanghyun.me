@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post1.md",
+                "file": "post5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post1.md",
+                "file": "post5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post1.md",
+                "file": "post5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post1.md"
+                "file": "post5.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "238a1d6990ffb849",
   "lastOpenFiles": [
+    "post4.md",
     "post5.md",
+    "post3.md",
+    "post2.md",
+    "post1.md",
+    "post4 copy.md",
     "post1 copy.md",
     "post1 copy 3.md",
     "post1 copy 2.md",
-    "post2.md",
-    "post4.md",
-    "post3.md",
     "post3 copy.md",
-    "post1.md",
     "Untitled.md"
   ]
 }

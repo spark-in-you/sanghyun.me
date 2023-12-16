@@ -1,6 +1,6 @@
 ---
 title: 겨울학기 개강 하루전
-date: 2023-12-17T11:30:03+09:00
+date: 2023-12-17T00:00:00+09:00
 tags:
   - 탈식민
   - 강의
@@ -11,7 +11,7 @@ showToc: true
 TocOpen: false
 description: 겨울학기 잘 듣기!
 cover:
-  image: 4-0.png
+  image: /4-0.png
   alt: <alt text>
   caption: <text>
   relative: false
