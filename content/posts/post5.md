@@ -11,7 +11,7 @@ showToc: true
 TocOpen: false
 description: 1일1논문 시작
 cover:
-  image: 
+  image: https://image.spark-in-you.com/images/2022/07/12/dc3d3a9f68fe3fb408a01dd6e38a250e.jpg
   alt: <alt text>
   caption: <text>
   relative: false
