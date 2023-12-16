@@ -10,7 +10,7 @@ showToc: true
 TocOpen: false
 description: 첫 개시글
 cover:
-  image: https://image.spark-in-you.com/images/2022/07/12/dc3d3a9f68fe3fb408a01dd6e38a250e.jpg
+  image:
   alt: <alt text>
   caption: <text>
   relative: false

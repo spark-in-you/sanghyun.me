@@ -11,11 +11,11 @@ showToc: true
 TocOpen: false
 description: 1일1논문 시작
 cover:
-  image: /3-0.png
+  image: "/3-0.png"
   alt: <alt text>
   caption: <text>
   relative: false
-  hidden: true
+  hidden: false
 editPost:
   URL: https://github.com/spark-in-you/sanghyun.me/content
   Text: Suggest Changes

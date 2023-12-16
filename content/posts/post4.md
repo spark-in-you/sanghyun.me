@@ -11,11 +11,11 @@ showToc: true
 TocOpen: false
 description: 겨울학기 잘 듣기!
 cover:
-  image: /4-0.png
+  image: "/4-0.png"
   alt: <alt text>
   caption: <text>
   relative: false
-  hidden: true
+  hidden: false
 editPost:
   URL: https://github.com/spark-in-you/sanghyun.me/content
   Text: Suggest Changes
